@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm alvaro</h1>
 <h3 align="center">A passionate with cybersecurity and tech from Spain</h3>
 
-- 🔭 I’m currently working on **nm**
-
 - 🌱 I’m currently learning **Cibersecurity**
 
 - 👯 I’m looking to collaborate on **magicmirror42**
