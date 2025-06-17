@@ -3,7 +3,6 @@
 ** Get in Touch
    - 📧 Email: alvarojimenezramon@gmail.com
    - 🔗 [LinkedIn](https://www.linkedin.com/in/álvaro-jiménez-ramón-73477933b)
-   - 🔗 [GitHub](https://github.com/alvjimen)
 
 ** A Bit About Me
    I'm a systems administrator with a passion for networks, programming, and crafting tech solutions. I thrive on challenges and always keep a positive mindset while focusing on my goals. Whether it's troubleshooting or developing new projects, I'm all in!
@@ -21,40 +20,18 @@
    - Ongoing training at 42 Madrid (2022 – Present)
 
 ** Tech Skills
-   <h3 align="left">Languages and Tools:</h3>
-   <p align="left">
-       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-           <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-       </a>
-       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-       </a>
-       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-       </a>
-       <a href="https://www.python.org" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-       </a>
-       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-       </a>
-       <a href="https://www.fortiguard.com/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortinet/fortinet-original.svg" alt="fortigate" width="40" height="40"/>
-       </a>
-       <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" alt="vault" width="40" height="40"/>
-       </a>
-       <a href="https://openvpn.net/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openvpn/openvpn-original.svg" alt="openvpn" width="40" height="40"/>
-       </a>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-       </a>
-       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-       </a>
-   </p>
 
+*** Languages and Tools:
+   - [[https://www.gnu.org/software/bash/][bash]]: [[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg][[[file:gnu_bash-icon.svg][40x40]]]]
+   - [[https://www.cprogramming.com/][C]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg][[[file:c-original.svg][40x40]]]]
+   - [[https://www.w3schools.com/cpp/][C++]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg][[[file:cplusplus-original.svg][40x40]]]]
+   - [[https://www.python.org][Python]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg][[[file:python-original.svg][40x40]]]]
+   - [[https://www.docker.com/][Docker]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg][[[file:docker-original-wordmark.svg][40x40]]]]
+   - [[https://www.fortiguard.com/][Fortigate]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/fortinet/fortinet-original.svg][[[file:fortinet-original.svg][40x40]]]]
+   - [[https://www.vaultproject.io/][Vault]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg][[[file:vault-original.svg][40x40]]]]
+   - [[https://openvpn.net/][OpenVPN]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/openvpn/openvpn-original.svg][[[file:openvpn-original.svg][40x40]]]]
+   - [[https://www.linux.org/][Linux]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg][[[file:linux-original.svg][40x40]]]]
+   - [[https://www.mysql.com/][MySQL]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg][[[file:mysql-original-wordmark.svg][40x40]]]]
 ** What I'm Learning Right Now
    Currently diving into:
    - Emacs org files for documentation.
