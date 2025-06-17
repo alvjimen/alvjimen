@@ -20,24 +20,22 @@
    - Ongoing training at 42 Madrid (2022 – Present)
 
 ** Tech Skills
+   - **Tools & Software:** Snort, Fortigate, Vault, OpenVPN, Docker
+   - **Programming Languages:** C, C++, Python
+   - **Scripting:** Bash, PowerShell, Python
+   - **Databases:** MySQL, MongoDB
+   - **Cybersecurity:** Hardening, 2FA, vulnerability analysis
 
-*** Languages and Tools:
-   - [[https://www.gnu.org/software/bash/][bash]]: [[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg][[[file:gnu_bash-icon.svg][40x40]]]]
-   - [[https://www.cprogramming.com/][C]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg][[[file:c-original.svg][40x40]]]]
-   - [[https://www.w3schools.com/cpp/][C++]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg][[[file:cplusplus-original.svg][40x40]]]]
-   - [[https://www.python.org][Python]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg][[[file:python-original.svg][40x40]]]]
-   - [[https://www.docker.com/][Docker]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg][[[file:docker-original-wordmark.svg][40x40]]]]
-   - [[https://www.fortiguard.com/][Fortigate]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/fortinet/fortinet-original.svg][[[file:fortinet-original.svg][40x40]]]]
-   - [[https://www.vaultproject.io/][Vault]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg][[[file:vault-original.svg][40x40]]]]
-   - [[https://openvpn.net/][OpenVPN]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/openvpn/openvpn-original.svg][[[file:openvpn-original.svg][40x40]]]]
-   - [[https://www.linux.org/][Linux]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg][[[file:linux-original.svg][40x40]]]]
-   - [[https://www.mysql.com/][MySQL]]: [[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg][[[file:mysql-original-wordmark.svg][40x40]]]]
 ** What I'm Learning Right Now
    Currently diving into:
    - Emacs org files for documentation.
-   - BGP and EVPN protocols, Docker, and GNS3.
-   - Kubernetes, Vagrant, and CI/CD practices.
+   - *BGP* and *EVPN* protocols, Docker, and *GNS3*.
+   - *Kubernetes*, *Vagrant*, and *CI/CD* practices.
 
 ** Cool Projects I've Worked On
    - **C++ Webserver:** Built an HTTP server with CGI support.
-   - **C Shell:** Created
+ - **C Shell:** Created a functional shell to understand its inner workings.
+   - **Ray Tracing in C:** Rendered realistic 3D graphics using ray tracing algorithms.
+   - **NM Tool Reimplementation:** Extracted info from ELF files and learned about the BFD library while following 42's guidelines.
+
+Feel free to reach out if you want to chat about tech, projects, or anything else!
