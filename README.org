@@ -33,9 +33,9 @@
    - *Kubernetes*, *Vagrant*, and *CI/CD* practices.
 
 ** Cool Projects I've Worked On
-   - **C++ Webserver:** Built an HTTP server with CGI support.
- - **C Shell:** Created a functional shell to understand its inner workings.
-   - **Ray Tracing in C:** Rendered realistic 3D graphics using ray tracing algorithms.
-   - **NM Tool Reimplementation:** Extracted info from ELF files and learned about the BFD library while following 42's guidelines.
+ - *C++ Webserver:* Built an HTTP server with CGI support.
+ - *C Shell:* Created a functional shell to understand its inner workings.
+ - *Ray Tracing in C:* Rendered realistic 3D graphics using ray tracing algorithms.
+ - *NM Tool Reimplementation:* Extracted info from ELF files and learned about the BFD library while following 42's guidelines.
 
 Feel free to reach out if you want to chat about tech, projects, or anything else!
